@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Cinema Paradiso",
+    "slug": "cinema-paradiso-firebase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0C0D0F",
+    "platforms": ["android", "ios"],
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0C0D0F"
+    },
+    "android": {
+      "package": "com.cinemaparadiso.catalogofirebase",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0C0D0F"
+      }
+    },
+    "icon": "./assets/icon.png"
+  }
+}
